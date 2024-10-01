@@ -1,4 +1,4 @@
-function Animal(nome, massa, raio) {
+function Corpoceleste(nome, massa, raio) {
     this.nome = nome;
     this.massa = massa;
     this.raio = raio;
